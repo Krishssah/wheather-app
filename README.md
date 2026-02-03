@@ -6,7 +6,7 @@ The app allows users to search for any city and view current weather details.
 ## Live Project
 The application is live using GitHub Pages.
 
-🔗 Live Link: https://Krishsah.github.io/weather-project/
+🔗 Live Link: https://krishssah.github.io/wheather-app/
 
 
 ## Features
